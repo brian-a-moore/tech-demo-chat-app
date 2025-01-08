@@ -70,5 +70,3 @@ This application is design to showcase working with real time communications usi
    • Typing indicators.
    • File upload workflow.
    • Group chat functionality.
-
-Would you like help designing the architecture or API payloads for these new features?
