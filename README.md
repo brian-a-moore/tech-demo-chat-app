@@ -1,5 +1,7 @@
 # Chat App
 
+This application is design to showcase working with real time communications using web sockets, as well as file uploads and storage.
+
 ## Technical Requirements
 
 1. WebSocket API
